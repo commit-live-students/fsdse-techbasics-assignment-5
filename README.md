@@ -1,3 +1,5 @@
+![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/logo.png)
+
 # Tech Basics - Assignment 5
 
 ## Sometime videos are best way to understand and learn things quickly.
