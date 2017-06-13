@@ -2,7 +2,7 @@
 
 # Tech Basics - Assignment 5
 
-## Sometime videos are best way to understand and learn things quickly.
+## Sometimes videos are the best way to understand and learn things quickly.
 
 ### How Internet Works
 
